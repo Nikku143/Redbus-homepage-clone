@@ -1,0 +1,165 @@
+*
+  ----------------------------------section-3------------------------------
+  */
+  .main-section-3
+  img {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  bottom: -105px;
+  left: 145px;
+  width: 80vw;
+  border-radius: 18px;
+  height: 100px;
+}
+
+.main-section-3 p {
+  padding: 245px 140px;
+  font-size: 37px;
+  line-height: 68px;
+}
+
+.main-section-3 p b {
+  font-weight: revert-layer;
+  color: black;
+}
+
+/* ------------------main-section-3-btn----------------------- */
+
+.main-section-3-btn {
+  position: relative;
+  bottom: 240px;
+  padding: 35px 136px;
+}
+
+.main-section-3-btn ul {
+  display: flex;
+}
+
+.main-section-3-btn ul li {
+  list-style: none;
+  border: none;
+  display: flex;
+  height: 30px;
+  align-items: center;
+  margin: 0.75rem;
+  border-radius: 5px;
+  padding: 7px 5px;
+  cursor: pointer;
+  gap: 10px;
+}
+
+/* #d84e55 */
+.main-section-3-btn ul li img {
+  width: fit-content;
+  position: relative;
+  height: fit-content;
+  left: inherit;
+  bottom: auto;
+}
+
+.main-section-3-btn li:nth-child(1) {
+  color: #d84e55;
+  font-weight: 600;
+  border-bottom: 3px solid #d84e55;
+  height: auto;
+  border-radius: 0;
+}
+
+.main-section-3-btn li:nth-child(2) {
+  border-bottom: 3px solid #d84e55;
+  border-radius: 0;
+  height: auto;
+  position: relative;
+  right: 25px;
+  width: 35px;
+}
+
+.main-section-3-btn li:nth-child(3) {
+  height: 3.6875rem;
+  border-bottom: 1px solid rgb(229, 229, 229);
+  width: 3rem;
+  position: relative;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  right: 50px;
+}
+
+.main-section-3-btn li:nth-child(4) {
+  font-weight: 600;
+  border-bottom: 1px solid rgb(229, 229, 229);
+  height: auto;
+  border-radius: 0;
+  position: relative;
+  right: 77px;
+  width: 210px;
+}
+
+.main-section-3-btn li:nth-child(4):hover {
+  background-color: #ddd;
+  border-radius: 5px;
+}
+
+/* -------------main-section-3-sub-1--------------- */
+
+.main-section-3-sub-1 p {
+  position: relative;
+  bottom: 503px;
+  font-size: 17px;
+  color: rgb(93, 92, 92);
+}
+
+.main-section-3-sub-2 {
+  position: relative;
+  bottom: 808px;
+  right: 20px;
+}
+
+.main-section-3-sub-2 li {
+  height: 65px;
+}
+
+#main-section-3-sub-2 {
+  position: relative;
+  left: 16%;
+  bottom: 5px;
+  font-weight: 800;
+}
+.main-section-3-sub-2 li img {
+  width: 80px;
+  position: relative;
+  top: 45px;
+}
+
+.main-section-3-sub-btn-1 {
+  margin: 0;
+  padding: 16px 17px;
+  position: relative;
+  left: 127px;
+  border-radius: 13px;
+  border: none;
+  font-size: 16px;
+  bottom: 700px;
+  background-color: #d84e55;
+  color: white;
+}
+
+.main-section-3-sub-4 img {
+  position: relative;
+  bottom: 1178px;
+  left: 43%;
+  width: fit-content;
+  margin: auto;
+}
+
+/* 
+background-color: blue;
+height: 0px;
+padding-bottom: -17px;
+margin: 0;
+padding: 0;
+} */
